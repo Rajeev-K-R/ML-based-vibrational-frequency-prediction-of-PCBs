@@ -1,0 +1,4 @@
+.env
+bel_venv/
+*.xlsx
+*.csv
